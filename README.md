@@ -1,3 +1,10 @@
+# PD Buddy Fork
+
+This is a form from [PD Buddy Firmware][], a minor tweak was required for
+the initial Nokapp board.
+
+[PD Buddy Firmware]: https://git.clarahobbs.com/pd-buddy/pd-buddy-firmware
+
 # PD Buddy Sink Firmware
 
 This is the firmware for the [PD Buddy Sink][], a smart power jack for USB
